@@ -1,2 +1,4 @@
-# algo
-intro to algo
+Algo
+====
+
+Some algo solution on cpp
